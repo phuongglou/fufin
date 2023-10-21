@@ -21,3 +21,11 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+## Test math expression
+
+$$ E=mc^2 $$
+
+\\[ E=mc^2 \therefore E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\! \\]
+
+$$ \mathop {\lim }\limits\_{x \to c} \frac{{f\left( x \right)}}{{g\left( x \right)}} = \mathop {\lim }\limits\_{x \to c} \frac{{f'\left( x \right)}}{{g'\left( x \right)}} $$
